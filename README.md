@@ -5,3 +5,4 @@ A personal list of programming topics and technologies I want to learn/get more 
 - Parser Generators (Flex & Bison)
 - More Javascript Intermediate & Advanced concepts
 - Create a simple programming language
+- Backend Scaling
